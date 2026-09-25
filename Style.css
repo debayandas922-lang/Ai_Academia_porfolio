@@ -75,6 +75,7 @@ body {
 }
 
 .top-nav a:hover,
+.top-nav .nav-item:hover,
 .top-nav a[aria-current="page"] {
     background: linear-gradient(135deg, var(--accent) 0%, var(--accent-2) 100%);
     color: #07131c;
